@@ -11,6 +11,7 @@ You can **create**, **read**, **update**, and **delete** (CRUD) movies from a Mo
    - For example
    `https://femi-movie-app.onrender.com/api/movies`
 
+   ![Get movies example from postman](/img/LiveAPI.png)
 ---
 
 ## 📁 Project Structure
@@ -28,6 +29,7 @@ ws5-movie-api/
 │   ├── Delete.png
 │   ├── GetAll.png
 │   ├── GetById.png
+│   ├── LiveAPI.png
 │   └── Update.png
 │
 ├── models/

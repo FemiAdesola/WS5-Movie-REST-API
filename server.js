@@ -31,13 +31,13 @@ app.use(cors());
 app.use(express.json());
 
 // ===== API Routes =====
-// All member-related routes (e.g., /api/movies)
+// All movies-related routes
 app.use(movieRouter);
 
 
 // Simple test route
 app.get("/", (req, res) => {
-    res.json({ message: "WS-5 Movie API running" });
+    res.json({ message: "WS-5 Movie API running, add /api/movies to see all the movies" });
 });
 
 // Start listening for incoming requests on the specified port
