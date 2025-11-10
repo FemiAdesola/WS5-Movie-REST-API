@@ -6,6 +6,7 @@ A simple RESTful API built with **Node.js**, **Express**, and **MongoDB (Mongoos
 You can **create**, **read**, **update**, and **delete** (CRUD) movies from a MongoDB database.
 
 > **View the live API link [here](https://femi-movie-app.onrender.com/)**
+or click [here](https://femi-movie-app.onrender.com/api/movies) to see movies
 
 * Note: Add the endpoint such as `api/movies` to view the data
    - For example
